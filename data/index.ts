@@ -1,7 +1,7 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
+  { name: "Feedback", link: "#feedback" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -104,36 +104,36 @@ export const projects = [
   },
 ];
 
-export const testimonials = [
+export const feedback = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Trevor's creativity knows no bounds—each project he takes on is infused with fresh, innovative ideas that push the boundaries of design.He has a remarkable talent for turning even the vaguest concepts into visually stunning realities that always leave us impressed.",
+    name: "Johnson",
+    title: "Logo Design Client",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "His design skills are exceptional, with an eye for detail that ensures every element is perfectly executed. Whether it's typography, color palettes, or layout, he consistently produces work that is both aesthetically pleasing and highly functional, elevating our brand’s visual identity.",  
+    name: "Daniel",
+    title: "Web design client",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Mandela has an incredible knack for problem - solving through design. No matter how complex the challenge, he approaches it with a methodical yet creative mindset, breaking down issues and delivering clear, impactful solutions that address both the practical and visual aspects.",
+    name: "Stephen Ssali",
+    title: "Mariandina Wellness - Uganda",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "What stands out most is how he truly listens to our needs and vision, and then translates them into designs that not only meet but often exceed our expectations. His ability to grasp our brand’s essence and communicate it through compelling visuals is unmatched.",
+    name: "Aaron Joel Kaleeba",
+    title: "Khulani Advisory",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "His approach to overcoming design challenges is nothing short of brilliant. Whether faced with tight deadlines or tricky requirements, he always finds a way to deliver top-quality work on time, ensuring that the final product is both innovative and effective.",
+    name: "Donald Mugwiri",
+    title: "Director of Uhlendorf Innovations Africa",
   },
 ];
 

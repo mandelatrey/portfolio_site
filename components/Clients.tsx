@@ -1,18 +1,18 @@
 import React from 'react'
 import { InfiniteMovingCards } from './ui/InfiniteMovingCards'
-import { companies, testimonials } from '@/data'
-import { div } from 'three/webgpu';
+import { companies, feedback } from '@/data'
+
 
 const Clients = () => {
   return (
-    <div className="py-20" id="testimonials">
+    <div className="py-20" id="feedback">
       <h1 className="heading">
-        Reviews from <span className="text-purple"> happy clients </span>
+        Feedback from <span className="text-purple"> past clients </span>
       </h1>
 
       <div className="flex flex-col items-center justify-center max-lg:mt-10 py-10">
           <InfiniteMovingCards
-            items={testimonials}
+            items={feedback}
             direction="right"
             speed="slow"
           />
